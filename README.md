@@ -1,5 +1,5 @@
 # Banking-Management-System
-Overview
+
 This Bank Management System is a GUI-based application developed using Python's tkinter module for the frontend and pymysql for database interaction. The system allows users to create accounts, log in, deposit, withdraw, and manage accounts. It interacts with a MySQL database to store user information and transaction data.
 
 
